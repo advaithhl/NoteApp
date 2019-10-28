@@ -1,4 +1,4 @@
-package com.advaith.project_advaith;
+package com.advaith.noteapp;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.advaith.project_advaith", appContext.getPackageName());
+        assertEquals("com.advaith.noteapp", appContext.getPackageName());
     }
 }

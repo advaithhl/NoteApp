@@ -1,10 +1,10 @@
-package com.advaith.project_advaith.activities;
+package com.advaith.noteapp.activities;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.advaith.project_advaith.R;
+import com.advaith.noteapp.R;
 
 public class ResumeActivity extends AppCompatActivity {
 

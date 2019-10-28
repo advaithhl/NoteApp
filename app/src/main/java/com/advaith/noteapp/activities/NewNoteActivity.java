@@ -1,4 +1,4 @@
-package com.advaith.project_advaith.activities;
+package com.advaith.noteapp.activities;
 
 import android.app.Activity;
 import android.content.ContentValues;
@@ -13,9 +13,9 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.advaith.project_advaith.R;
-import com.advaith.project_advaith.database.NoteContract;
-import com.advaith.project_advaith.database.NoteDbHelper;
+import com.advaith.noteapp.R;
+import com.advaith.noteapp.database.NoteContract;
+import com.advaith.noteapp.database.NoteDbHelper;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.Calendar;

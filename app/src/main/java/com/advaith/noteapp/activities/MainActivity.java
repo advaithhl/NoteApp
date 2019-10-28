@@ -1,4 +1,4 @@
-package com.advaith.project_advaith.activities;
+package com.advaith.noteapp.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,9 +12,9 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.advaith.project_advaith.R;
-import com.advaith.project_advaith.database.NoteDbHelper;
-import com.advaith.project_advaith.utils.RecyclerAdapter;
+import com.advaith.noteapp.R;
+import com.advaith.noteapp.database.NoteDbHelper;
+import com.advaith.noteapp.utils.RecyclerAdapter;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.Objects;

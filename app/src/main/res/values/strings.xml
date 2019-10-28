@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Project - Advaith</string>
+    <string name="app_name">NoteApp</string>
     <string name="action_about_me">About the dev</string>
     <string name="note_title_hint">Title</string>
     <string name="note_content_hint">Start typing here…</string>

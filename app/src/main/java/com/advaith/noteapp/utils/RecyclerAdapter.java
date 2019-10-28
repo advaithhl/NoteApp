@@ -1,4 +1,4 @@
-package com.advaith.project_advaith.utils;
+package com.advaith.noteapp.utils;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -12,10 +12,10 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.advaith.project_advaith.R;
-import com.advaith.project_advaith.activities.ViewNoteActivity;
-import com.advaith.project_advaith.database.NoteContract;
-import com.advaith.project_advaith.database.NoteDbHelper;
+import com.advaith.noteapp.R;
+import com.advaith.noteapp.activities.ViewNoteActivity;
+import com.advaith.noteapp.database.NoteContract;
+import com.advaith.noteapp.database.NoteDbHelper;
 
 import java.util.ArrayList;
 import java.util.List;

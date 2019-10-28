@@ -1,4 +1,4 @@
-package com.advaith.project_advaith;
+package com.advaith.noteapp;
 
 import org.junit.Test;
 

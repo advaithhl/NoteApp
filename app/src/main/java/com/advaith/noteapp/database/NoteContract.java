@@ -1,4 +1,4 @@
-package com.advaith.project_advaith.database;
+package com.advaith.noteapp.database;
 
 import android.provider.BaseColumns;
 

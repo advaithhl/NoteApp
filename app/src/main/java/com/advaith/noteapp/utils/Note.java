@@ -1,4 +1,4 @@
-package com.advaith.project_advaith.utils;
+package com.advaith.noteapp.utils;
 
 import java.io.Serializable;
 
